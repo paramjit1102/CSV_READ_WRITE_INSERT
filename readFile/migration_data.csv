@@ -1,0 +1,12 @@
+year_month,month_of_release,passenger_type,direction,sex,age,estimate,standard_error,status
+2001-01,2020-09,Long-term migrant,Arrivals,Female,0-4 years,344,0,Final
+2001-01,2020-09,Long-term migrant,Arrivals,Male,0-4 years,341,0,Final
+2001-01,2020-09,Long-term migrant,Arrivals,Female,10-14 years,459,0,Final
+2001-01,2020-09,Long-term migrant,Arrivals,Male,10-14 years,510,0,Final
+2001-01,2020-09,Long-term migrant,Arrivals,Female,15-19 years,899,0,Final
+2001-01,2020-09,Long-term migrant,Arrivals,Male,15-19 years,904,0,Final
+2001-01,2020-09,Long-term migrant,Arrivals,Female,20-24 years,566,0,Final
+2001-01,2020-09,Long-term migrant,Arrivals,Male,20-24 years,566,0,Final
+2001-01,2020-09,Long-term migrant,Arrivals,Female,25-29 years,659,0,Final
+2001-01,2020-09,Long-term migrant,Arrivals,Male,25-29 years,604,0,Final
+2001-01,2020-09,Long-term migrant,Arrivals,Female,30-34 years,514,0,Final
